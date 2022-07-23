@@ -1,0 +1,72 @@
+body {
+    background-color: #781e9c;
+    padding: 50px;
+}
+main {
+    padding: 50px;
+}
+h1 {
+    font-family:'Courier New', Courier, monospace ;
+    text-align: center;
+}
+div#contador {
+    border: 0.5px solid black;
+    border-radius: 7px;
+    width: 300px;
+    margin: auto;
+    font-size: 50px;
+    text-align: center;
+    font-family:'Courier New', Courier, monospace ;
+
+}
+div.botoes {
+    text-align: center;
+    
+}
+
+#começar{
+    border: 0.1px solid black;
+    border-radius: 3px;
+    margin: 5px;
+    padding: 5px 15px 5px 15px;
+
+    background-color: #8323a8;
+}
+#começar:hover{
+    background-color: #9046ad;
+}
+#parar{
+    border: 0.1px solid black;
+    color: black;
+    border-radius: 3px;
+    margin: 5px;
+    padding: 5px 15px 5px 15px;
+    background-color: #8323a8;
+}
+#parar:hover{
+    background-color: #9046ad;
+}
+#resetar{
+    border: 0.1px solid black;
+    border-radius: 3px;
+    margin: 5px;
+    padding: 5px 15px 5px 15px;
+
+    background-color: #8323a8;
+}
+#resetar:hover{
+    background-color: #9046ad;
+}
+#marcar{
+    border: 0.1px solid black;
+    border-radius: 3px;
+    margin: 5px;
+    padding: 5px 15px 5px 15px;
+
+    background-color: #8a43a7;
+}
+#marcar:hover{
+
+    background-color: #9046ad;
+
+}
